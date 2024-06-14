@@ -1,0 +1,1538 @@
+Company,Industry,url,% JS Attr. Tracked,% FP Features,% Aggr. Features,Sensitive,Aggressive,% JS Attr. Tracked,% FP Features,% Aggr. Features,Sensitive,Aggressive,Notes
+amazon,e-commerce,http://amazon.com,48.70%,55.00%,55.56%,"Online status
+Storage
+User agent
+Platform
+Mobile
+Content language
+DoNotTrack
+Cookies enabled
+Vendor
+Timezone Product
+Flash","Geolocation
+Connection
+CPU concurrency
+Device memory
+Webdriver
+List of plugins
+Audio and video formats
+App version
+Battery status
+WebGL",46.09%,55.00%,55.56%,"Online status
+Storage
+User agent
+Platform
+Mobile
+Content language
+DoNotTrack
+Cookies enabled
+Vendor
+Timezone 
+Product
+Flash","Geolocation 
+Connection
+CPU concurrency
+Device memory
+Webdriver
+List of plugins
+Audio and video formats
+App version
+Battery status
+WebGL",
+ebay,e-commerce,http://ebay.com,24.35%,27.50%,16.67%,"User agent
+Storage
+Timezone
+Content language
+Platform
+Product
+Browser vendor
+Cookies enabled","Connection
+Device memory
+App version",19.13%,27.50%,16.67%,"User agent
+Storage
+Timezone
+Content language
+Platform
+Product
+Browser vendor
+Cookies enabled","Connection
+App version
+Device Memory",
+best buy,e-commerce,http://bestbuy.com,48.70%,57.50%,66.67%,"User agent
+Storage
+Timezone
+Content language
+Mobile
+Online status
+Cookies enabled
+Browser vendor
+DoNotTrack
+Platform
+Vendor","Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions
+Connection
+Geolocation
+JS fonts
+Device memory
+WebGL",48.70%,57.50%,66.67%,"User agent
+Storage
+Timezone
+Mobile
+Content language
+Online status
+Cookies enabled
+Browser vendor
+DoNotTrack
+Platform","Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions Connection
+JS fonts
+Geolocation
+Device memory
+WebGL",
+craigslist,e-commerce,http://craigslist.org,15.65%,15.00%,0.00%,"Storage
+User agent
+Timezone
+Content language
+Mobile
+Platform",,13.04%,15.00%,0.00%,"Storage
+User agent
+Timezone
+Content language
+Mobile Platform",,
+etsy,e-commerce,http://etsy.com,34.78%,45.00%,55.56%,"Storage
+User agent
+Content language
+Timezone
+Platform
+Mobile
+Vendor
+Build ID","Connection Permissions
+WebGL
+List of plugins
+Product sub
+Operating system
+Media devices
+Audio and video formats
+Device memory
+Webdriver",31.30%,42.50%,50.00%,"Storage
+User agent
+Content language
+Timezone Platform Mobile Vendor
+Build ID","Connection Permissions
+WebGL
+List of plugins
+Operating system
+Media devices
+Audio and video formats
+Device memory
+Webdriver",
+walmart,e-commerce,http://walmart.com,40.87%,62.50%,61.11%,"Storage
+User agent
+Platform
+Timezone
+Mobile
+Online status
+Content language
+DoNotTrack
+Product
+Browser vendor
+Build ID
+App code name
+Cookies enabled
+Vendor","Permissions 
+Connection
+CPU concurrency
+Device memory
+Webdriver
+List of plugins
+Geolocation
+Product sub
+App version
+Audio and video formats
+WebGL",40.00%,65.00%,72.22%,"Storage
+User agent
+Platform
+Timezone
+Mobile
+Online status
+DoNotTrack
+Content language
+Product
+Browser vendor
+Build ID
+App code name
+Vendor","Permissions Connection
+CPU concurrency
+Device memory
+List of plugins
+Webdriver
+Battery status
+Geolocation
+Product sub
+App version
+Audio and video formats
+WebGL
+Media devices",
+target,e-commerce,http://target.com,60.00%,75.00%,77.78%,"User agent
+Storage
+Cookies enabled
+Platform
+DoNotTrack
+App code name
+Browser vendor
+Build ID
+CPU class
+Mobile
+Product Vendor
+Vendor sub
+Timezone
+Content language
+Online status","Geolocation 
+Connection
+List of plugins
+App version
+CPU concurrency
+Product sub
+Operating system
+Webdriver
+Battery status
+Canvas
+JS fonts
+WebGL
+Audio and video formats
+Device memory",60.87%,75.00%,77.78%,"Storage
+App code name
+Browser vendor
+Build ID CPU class
+Mobile Platform Product
+User agent
+Vendor
+Vendor sub
+DoNotTrack
+Content language
+Cookies enabled
+Timezone
+Online status","List of plugins
+App version
+CPU concurrency
+Product sub
+Operating system
+Webdriver 
+Geolocation Connection
+Device memory
+Canvas
+JS fonts
+Battery status
+WebGL
+Audio and video formats",
+shopify,e-commerce,http://shopify.com,19.13%,27.50%,16.67%,"Storage
+User agent
+Platform
+Mobile
+Timezone
+Content language
+Cookies enabled
+Vendor","WebGL
+Webdriver
+Media devices",33.91%,27.50%,16.67%,"Storage
+User agent
+Platform Mobile
+Timezone
+Content language
+Cookies enabled
+Vendor","WebGL
+Webdriver
+Media devices",
+alibaba,e-commerce,http://alibaba.com,36.52%,50.00%,44.44%,"User agent
+Storage
+Browser vendor
+Product
+Content language
+Platform
+Mobile
+Vendor
+Timezone
+Build ID
+Cookies enabled
+App code name","App version
+Connection
+Battery status
+Webdriver
+WebGL
+CPU concurrency
+JS fonts
+List of plugins",33.91%,50.00%,44.44%,"App version
+Connection
+Battery status
+Webdriver
+WebGL
+CPU concurrency
+JS fonts
+List of plugins","App version
+Battery status
+Webdriver
+WebGL
+CPU concurrency
+JS fonts
+List of plugins
+Connection",
+flipkart,e-commerce,http://flipkart.com,40.00%,55.00%,50.00%,"User agent
+Storage
+Cookies enabled
+Platform
+Online status
+Browser vendor
+Content language
+DoNotTrack 
+Timezone 
+Product
+Build ID
+App code name
+Mobile","Permissions
+Media devices
+Connection
+Webdriver
+List of plugins
+Device memory
+Geolocation
+Product sub
+App version
+JS fonts
+Audio
+CPU concurrency
+WebGL",0.00%,0.00%,0.00%,,,Did not recognize as an open page on firefox
+cnn,news,http://cnn.com,38.26%,47.50%,38.89%,"Content language
+Storage
+Browser vendor
+User agent
+Platform
+Mobile
+Timezone
+Product
+DoNotTrack
+Cookies enabled
+Vendor
+Build ID","App version
+List of plugins
+Connection
+Product sub
+Operating system
+Device memory
+Audio and video formats",37.39%,55.00%,44.44%,"Content language
+Storage
+Browser vendor
+User agent
+Platform Mobile
+Timezone Product
+DoNotTrack
+Cookies enabled
+System language
+Vendor
+Vendor sub
+App code name","App version
+Device memory
+Connection
+CPU concurrency
+List of plugins
+Product sub
+JS fonts
+Audio and video formats",
+cnbc,news,http://cnbc.com,39.13%,52.50%,44.44%,"Storage
+User agent
+Product 
+Platform
+Mobile Vendor
+Timezone
+Cookies enabled
+DoNotTrack
+Content language
+CPU class
+Browser language
+Browser vendor","App version
+List of plugins 
+Battery status
+WebGL
+Audio and video formats
+CPU concurrency
+Webdriver
+Device memory",36.52%,52.50%,44.44%,"Storage
+User agent
+DoNotTrack
+Content language
+Product 
+Platform 
+Mobile
+Vendor
+Timezone
+Cookies enabled
+CPU class
+Browser language
+Browser vendor","App version
+List of plugins Battery status
+WebGL
+Audio and video formats
+CPU concurrency
+Webdriver
+Device memory",
+bloomberg,news,http://bloomberg.com,68.70%,72.50%,77.78%,"User agent
+Storage
+Timezone 
+DoNotTrack 
+Platform 
+Mobile
+Browser vendor
+Vendor
+Content language
+Product
+Build ID
+App code name
+Online status
+Browser language
+Cookies enabled
+CPU class","Permissions App version
+Battery status
+List of plugins
+WebGL
+Audio and video formats
+CPU concurrency
+Webdriver
+Device memory
+Geolocation Product sub
+Connection
+JS fonts",66.09%,72.50%,77.78%,"User agent
+Storage 
+Platform 
+Mobile
+Timezone 
+DoNotTrack
+Content language
+Cookies enabled
+Browser vendor
+Vendor
+Browser language
+Product Build ID
+App code name
+Online status
+CPU class","Permissions
+Device memory
+Audio and video formats
+CPU concurrency
+List of plugins
+App version
+Battery status
+WebGL
+Webdriver Geolocation
+Product sub
+Connection
+JS fonts",
+forbes,news,http://forbes.com,63.48%,87.50%,77.78%,"User agent
+Storage
+Timezone
+Cookies enabled
+Platform Mobile
+Browser vendor
+DoNotTrack
+Vendor
+App code name
+Product
+Content language
+Vendor sub
+Build ID CPU class
+Java enabled
+Browser language
+System language
+Online status
+Drag and drop
+Flash","CPU concurrency
+Connection
+Device memory
+Battery status
+App version
+List of plugins
+WebGL
+Audio and video formats
+Webdriver 
+Permissions 
+Product sub
+Operating system
+Media devices
+Geolocation",60.87%,87.50%,77.78%,"User agent
+Storage 
+Product
+Timezone
+Content language
+Cookies enabled
+Platform Mobile
+Browser vendor
+DoNotTrack
+App code name
+Vendor
+Vendor sub
+Build ID 
+CPU class
+Java enabled
+Browser language
+System language
+Online status
+Drag and drop
+Flash","CPU concurrency
+Connection
+List of plugins
+WebGL
+Webdriver
+App version
+Battery status
+Product sub
+Operating system
+Media devices
+Permissions 
+Geolocation
+Device memory
+Audio and video formats",
+huffington post,news,http://huffingtonpost.com,31.30%,37.50%,27.78%,"Storage
+User agent
+Timezone
+Platform
+Content language
+Mobile
+DoNotTrack
+Vendor
+Cookies enabled
+Browser vendor","Connection
+List of plugins
+Product sub
+Operating system
+Device memory",26.09%,35.00%,16.67%,"Storage
+User agent
+Timezone Platform
+Content language
+Mobile
+Cookies enabled
+Vendor
+DoNotTrack
+Browser vendor
+Product","Connection
+List of plugins 
+Device memory",
+nbc news,news,http://nbcnews.com,41.74%,52.50%,55.56%,"User agent
+Storage
+Browser vendor
+Timezone 
+Platform 
+Mobile 
+Vendor
+Content language
+DoNotTrack
+Cookies enabled
+Product","App version
+Connection
+Battery status
+List of plugins
+Audio and video formats
+Geolocation
+WebGL
+CPU concurrency
+Webdriver
+Device memory",39.13%,52.50%,55.56%,"User agent
+Storage
+Browser vendor
+Timezone 
+Platform 
+Mobile 
+Vendor
+DoNotTrack
+Content language
+Cookies enabled
+Product","App version
+Connection
+Battery status
+List of plugins
+WebGL
+Audio and video formats
+CPU concurrency
+Webdriver
+Device memory
+Geolocation",
+abc,news,http://abc.net.au,28.70%,35.00%,22.22%,"Product
+User agent
+Storage
+DoNotTrack
+Platform Mobile
+Timezone
+Content language
+Cookies enabled
+Online status","Connection
+List of plugins
+App version
+Device memory",26.09%,35.00%,22.22%,"Product
+User agent
+Platform 
+Mobile 
+Storage
+DoNotTrack 
+Timezone
+Content language
+Cookies enabled
+Online status","Connection 
+App version
+List of plugins 
+Device memory",
+the guardian,news,http://theguardian.com,27.83%,32.50%,16.67%,"Storage
+Timezone
+User agent
+Browser vendor
+Cookies enabled
+Content language
+DoNotTrack
+Platform
+Product
+Mobile","Connection
+List of plugins 
+Device memory",21.74%,30.00%,16.67%,"Storage
+Timezone 
+User agent
+Browser vendor
+Cookies enabled
+Content language
+DoNotTrack
+Platform 
+Product","Connection
+List of plugins 
+Device memory",
+fox news,news,http://foxnews.com,49.57%,75.00%,77.78%,"User agent
+Cookies enabled
+Storage
+Timezone
+Browser vendor
+App code name
+Product
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+DoNotTrack
+Mobile
+Browser language","List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver Permissions
+Battery status
+Canvas
+Audio and video formats
+Device memory
+Connection",33.04%,47.50%,33.33%,"User agent
+Cookies enabled
+Storage
+Browser vendor
+Content language
+Browser language
+System language
+Timezone 
+Platform 
+Mobile 
+Vendor
+DoNotTrack
+Product","Audio and video formats
+List of plugins
+Webdriver
+Device memory
+Connection
+Battery status",
+ny times,news,http://nytimes.com,41.74%,60.00%,61.11%,"User agent
+Timezone
+Storage
+Product
+Browser vendor
+Content language
+DoNotTrack
+Cookies enabled
+Mobile
+Platform
+Online status
+Vendor
+Build ID","App version
+CPU concurrency
+Webdriver
+Device memory
+List of plugins
+Product sub
+Operating system
+Media devices
+Audio and video formats
+Permissions
+WebGL",37.39%,57.50%,55.56%,"User agent
+Timezone 
+Storage
+DoNot Track
+Content language
+Cookies enabled
+Product Mobile
+Browser vendor
+Platform
+Online status
+Vendor
+Build ID","App version
+List of plugins
+Device memory
+CPU concurrency
+Webdriver
+Operating system
+Media devices
+Audio and video formats
+Permissions
+WebGL",
+instagram,social media,http://instagram.com,27%,40%,45%,"User agent
+Storage
+Platform
+Content language
+Vendor
+Timezone
+Mobile
+Online status","CPU concurrency
+Device memory
+Connection
+Webdriver
+List of plugins
+Permissions
+App version
+WebGL",61%,75%,56%,"User agent
+Storage
+Platform
+Online status
+DoNotTrack
+Content language
+Product
+Vendor
+Vendor sub
+Build ID
+CPU class
+Mobile
+App code name
+Cookies enabled
+Java enabled
+Browser vendor
+Browser language
+System language
+Drag and drop
+Flash","CPU concurrency
+Device memory
+Connection
+WebGL
+Product sub
+Operating system
+Webdriver
+App version
+Geolocation
+Battery status",
+tiktok,social media,http://tiktok.com,61%,85%,89%,"User agent
+Storage
+Timezone
+Product
+Content language
+Platform
+Vendor
+Cookies enabled
+App code name
+Online status
+Mobile
+Flash
+Browser vendor
+Build ID
+DoNotTrack
+CPU class
+Vendor sub
+System language","Media devices
+Geolocation
+CPU concurrency
+App version
+Audio and video formats
+Device memory
+Battery status
+JS fonts
+List of plugins
+Webdriver
+WebGL
+Connection
+Permissions
+Canvas
+Operating system
+Product sub",no page loaded,,,,,
+pinterest,social media,http://pinterest.com,44%,53%,56%,"User agent
+Storage
+Platform
+Product
+Mobile
+Online status
+Cookies enabled
+Timezone
+Vendor
+Content language
+CPU class","Connection
+App version
+Audio
+Operating system
+Device memory
+CPU concurrency
+List of plugins
+Canvas
+JS fonts
+Webdriver",41%,53%,56%," Sensitive
+
+    User agent
+    Storage
+    Platform
+    Product
+    Mobile
+    Online status
+    Cookies enabled
+    Timezone
+    Vendor
+    Content language
+    CPU class"," Aggressive
+
+    Connection
+    App version
+    Audio
+    Operating system
+    Device memory
+    CPU concurrency
+    List of plugins
+    Canvas
+    JS fonts
+    Webdriver",
+linkedin,social media,http://linkedin.com,62%,65%,78%,"Storage
+User agent
+Browser vendor
+App code name
+Platform
+Product
+CPU class
+Vendor
+Vendor sub
+Content language
+Timezone
+Mobile","Media devices
+App version
+Product sub
+Operating system
+CPU concurrency
+Device memory
+Webdriver
+Canvas
+JS fonts
+WebGL
+Connection
+Battery status
+Audio
+List of plugins",no page loaaded,,,,,
+reddit,social media,http://reddit.com,14%,15%,6%,"User agent
+Mobile
+Storage
+Timezone
+Platform",Connection,no page loaaded,,,,,
+whatsapp,social media,http://whatsapp.com,9%,8%,0%,"Storage
+User agent
+Online status",,7%,8%,0%,"Storage
+User agent
+Online Status",,
+skype,social media,http://skype.com,16%,20%,17%,"User agent
+Storage
+Product
+Content language
+Timezone","Audio and video formats
+App version
+Canvas",13%,18%,12%,"Storage
+User agent
+Online Status","Audio and Video Formats
+App Version",
+twitter,social media,http://twitter.com,19%,20%,12%,"User agent
+Storage
+Platform
+Online status
+Timezone
+Content language","Connection
+List of plugins",no page loaded,,,,,
+tumblr,social media,http://tumblr.com,14%,18%,6%,"User agent
+Storage
+Timezone
+Online status
+Vendor
+Content language",Connection,no page loaded,,,,,
+yelp,social media,http://yelp.com,25%,38%,34%,"User agent
+Content language
+Product
+Storage
+Timezone
+DoNotTrack
+Cookies enabled
+Online status
+Vendor","Connection
+Webdriver
+Device memory
+CPU concurrency
+List of plugins
+Geolocation",21%,38%,34%,"User agent
+Content language
+Product
+Storage
+Timezone
+Platform
+DoNotTrack
+Cookies enabled
+Online status","Connection
+Webdriver
+Device memory
+CPU concurrency
+List of plugins
+Geolocation",
+oracle,tech,http://oracle.com,46%,70%,73%,"DoNotTrack
+Storage
+Product
+User agent
+Timezone
+Browser vendor
+App code name
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+Cookies enabled
+Mobile","Connection
+List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas
+Media devices",43%,70%,73%,"DoNotTrack
+Storage
+Product
+User agent
+Timezone
+Browser vendor
+App code name
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+Cookies enabled
+Mobile","Connection
+List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas
+Media devices",
+adobe,tech,http://adobe.com,43%,68%,67%,"Storage
+Timezone
+User agent
+Browser vendor
+App code name
+Product
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+DoNotTrack
+Cookies enabled
+Mobile","List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas
+Connection",42%,68%,67%,"Storage
+Timezone
+User agent
+Browser vendor
+App code name
+Product
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+DoNotTrack
+Cookies enabled
+Mobile","List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas
+Connection",
+microsoft,tech,http://microsoft.com,27%,40%,39%,"User agent
+Mobile
+Product
+Content language
+Timezone
+Storage
+Cookies enabled
+Vendor
+Platform","App version
+WebGL
+List of plugins
+Webdriver
+CPU concurrency
+Device memory
+Connection",25%,40%,39%,"User agent
+Mobile
+Product
+Content language
+Timezone
+Storage
+Cookies enabled
+Platform
+Vendor","App version
+List of plugins
+Webdriver
+WebGL
+CPU concurrency
+Device memory
+Connection
+Device memory
+Connection",
+ibm,tech,http://ibm.com,49%,63%,67%,"Storage
+Product
+User agent
+Timezone
+Mobile
+Content language
+Online status
+Flash
+Cookies enabled
+DoNotTrack
+Browser vendor
+Vendor
+Platform","Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions
+JS fonts
+Device memory
+WebGL
+Connection
+App version",47%,63%,67%,"Storage
+Product
+User agent
+Timezone
+Mobile
+Content language
+Online status
+Flash
+Browser vendor
+Cookies enabled
+DoNotTrack
+Platform
+Vendor","Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions
+App version
+JS fonts
+Device memory
+WebGL
+Connection",
+cisco,tech,http://cisco.com,26%,33%,17%,"Storage
+User agent
+Platform
+DoNotTrack
+Content language
+Vendor
+Timezone
+Browser vendor
+Cookies enabled
+Mobile","List of plugins
+App version
+Webdriver",25%,35%,23%,"Storage
+User agent
+Platform
+DoNotTrack
+Content language
+Timezone
+Browser vendor
+Cookies enabled
+Mobile
+Vendor","List of plugins
+App version
+Webdriver
+WebGL",
+salesforce,tech,http://salesforce.com,25%,35%,23%,"Storage
+Vendor
+User agent
+Cookies enabled
+DoNotTrack
+Content language
+Timezone
+Platform
+Mobile
+CPU class","Connection
+Battery status
+List of plugins
+CPU concurrency",23%,35%,23%,"Storage
+User agent
+Cookies enabled
+Vendor
+DoNotTrack
+Content language
+Timezone
+Platform
+Mobile
+CPU class","Connection
+Battery status
+List of plugins
+CPU concurrency",
+dell,tech,http://dell.com,57%,75%,84%,"Storage
+User agent
+Timezone
+Mobile
+Content language
+Online status
+Browser vendor
+App code name
+Vendor
+Vendor sub
+Build ID
+Platform
+System language
+DoNotTrack
+Cookies enabled","WebGL
+Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions
+JS fonts
+App version
+Operating system
+Geolocation
+Canvas
+Device memory
+Connection",54%,75%,84%,"Storage
+User agent
+Timezone
+Mobile
+Content language
+Online status
+Browser vendor
+App code name
+Vendor
+Vendor sub
+Build ID
+Platform
+System language
+DoNotTrack
+Cookies enabled","WebGL
+Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions
+JS fonts
+App version
+Operating system
+Geolocation
+Canvas
+Device memory
+Connection",
+intel,tech,http://intel.com,46%,68%,67%,"Storage
+User agent
+Timezone
+Browser vendor
+App code name
+Product
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+DoNotTrack
+Cookies enabled
+Mobile","Audio and video formats
+List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas",43%,68%,67%,"Storage
+User agent
+Timezone
+Browser vendor
+App code name
+Product
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+DoNotTrack
+Cookies enabled
+Mobile","Audio and video formats
+List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas",
+intuit,tech,http://intuit.com,23%,28%,12%,"User agent
+Timezone
+Storage
+Browser vendor
+Vendor
+Mobile
+Content language
+Cookies enabled
+Online status","List of plugins
+App version",20%,28%,12%,"User agent
+Timezone
+Storage
+Browser vendor
+Mobile
+Content language
+Cookies enabled
+Vendor
+Online status","List of plugins
+App version",
+hp,tech,http://hp.com,54%,75%,84%,"User agent
+Platform
+Mobile
+Storage
+Cookies enabled
+Online status
+Content language
+Timezone
+Browser vendor
+App code name
+Vendor
+Vendor sub
+Build ID
+System language
+DoNotTrack","Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions
+JS fonts
+App version
+Operating system
+Geolocation
+Canvas
+Device memory
+WebGL
+Connection",52%,75%,84%,"User agent
+Platform
+Mobile
+Storage
+Cookies enabled
+Content language
+Online status
+Timezone
+Browser vendor
+App code name
+Vendor
+Vendor sub
+Build ID
+System language
+DoNotTrack","Product sub
+List of plugins
+Webdriver
+Battery status
+CPU concurrency
+Media devices
+Permissions
+JS fonts
+App version
+Operating system
+Geolocation
+Canvas
+Device memory
+WebGL
+Connection",
+hulu,streaming,http://hulu.com,43%,65%,62%,"User agent
+Storage
+Timezone
+Browser vendor
+App code name
+Product
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+DoNotTrack
+Cookies enabled
+Mobile","List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas",42%,70%,67%,"User agent
+Storage
+Timezone
+Browser vendor
+App code name
+Product
+Vendor
+Vendor sub
+Build ID
+Platform
+Content language
+System language
+DoNotTrack
+Cookies enabled
+Mobile
+Online status","List of plugins
+JS fonts
+App version
+Product sub
+Operating system
+CPU concurrency
+Geolocation
+Webdriver
+Permissions
+Battery status
+Canvas
+Connection",
+netflix,streaming,http://netflix.com,23%,28%,12%,"Storage
+User agent
+Product
+Timezone
+Mobile
+Online status
+DoNotTrack
+Content language
+Vendor","Audio and video formats
+Battery status",16%,18%,0%,"Storage
+Timezone
+User agent
+Product
+Platform
+DoNotTrack
+Content language",,
+prime video,streaming,http://primevideo.com,23%,30%,28%,"Online status
+Storage
+User agent
+Content language
+DoNotTrack
+Cookies enabled
+Vendor","Geolocation
+Connection
+CPU concurrency
+Device memory
+Webdriver",19%,28%,28%,"Online status
+Storage
+User agent
+Content language
+DoNotTrack
+Cookies enabled","Geolocation
+Connection
+CPU concurrency
+Device memory
+Webdriver",
+twitch,streaming,http://twitch.tv,17%,23%,12%,"Storage
+Timezone
+User agent
+Product
+Content language
+Platform
+Online status","App version
+Battery status",14%,23%,12%,"Storage
+Timezone
+User agent
+Product
+Content language
+Platform
+Online status","App version
+Battery Status",
+espn,streaming,http://espn.com,35%,43%,39%,"User agent
+Storage
+Content language
+Mobile
+Timezone
+Browser vendor
+DoNotTrack
+Vendor
+Platform
+Cookies enabled","Audio and video formats
+WebGL
+App version
+Battery status
+List of plugins
+CPU concurrency
+Webdriver",34%,48%,45%,"User agent
+Storage
+Content language
+Mobile
+Timezone
+Browser vendor
+DoNotTrack
+Vendor
+Platform
+Cookies enabled
+Product","Audio and video formats
+WebGL
+App version
+Battery status
+List of plugins
+CPU concurrency
+Webdriver
+Device memory",
+vimeo,streaming,http://vimeo.com,19%,23%,6%,"User agent
+Storage
+Product
+Cookies enabled
+Content language
+DoNotTrack
+Vendor
+Platform",List of plugins,15%,20%,6%,"User agent
+Storage
+Product
+Cookies enabled
+Content language
+DoNotTrack
+Platform",List of plugins,
+youtube,streaming,http://youtube.com,33%,38%,39%,"User agent
+Storage
+Cookies enabled
+Timezone
+Online status
+Vendor
+Platform
+Mobile","Connection
+Device memory
+CPU concurrency
+Webdriver
+Media devices
+App version
+Battery status",26%,30%,28%,"User agent
+Storage
+Cookies enabled
+Timezone
+Online status
+Platform
+Mobile","Connection
+Device memory
+CPU concurrency
+Webdriver
+App version",
+google video,streaming,http://googlevideo.com,5%,5%,0%,"User agent
+Mobile",,5%,5%,0%,"User agent
+Mobile",,
+bilibili,streaming,http://bilibili.com,61%,58%,67%,"User agent
+Browser language
+Content language
+Storage
+Vendor
+Platform
+Mobile
+Timezone
+CPU class
+Browser vendor
+Cookies enabled","App version
+Webdriver
+Device memory
+CPU concurrency
+List of plugins
+Canvas
+JS fonts
+WebGL
+Operating system
+Product sub
+Audio
+Connection",59%,58%,67%,"User agent
+Browser language
+Content language
+Vendor
+Storage
+Platform
+Mobile
+Timezone
+CPU class
+Browser vendor
+Cookies enabled","App version
+Webdriver
+Device memory
+CPU concurrency
+List of plugins
+Canvas
+JS fonts
+WebGL
+Operating system
+Product sub
+Connection
+Audio",
+panda tv,streaming,http://panda.tv,Website doesn't exsist?,,,,,Website doesn't exsist?,,,,,
